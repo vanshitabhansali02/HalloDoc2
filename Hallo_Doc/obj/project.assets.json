@@ -11399,11 +11399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\Hallo_Doc\\Hallo_Doc.csproj",
+      "projectUniqueName": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\Hallo_Doc\\Hallo_Doc.csproj",
       "projectName": "Hallo_Doc",
-      "projectPath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\Hallo_Doc\\Hallo_Doc.csproj",
+      "projectPath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\Hallo_Doc\\Hallo_Doc.csproj",
       "packagesPath": "C:\\Users\\pca135\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\Hallo_Doc\\obj\\",
+      "outputPath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\Hallo_Doc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pca135\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11421,11 +11421,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\DataAccess\\DataAccess.csproj"
             }
           }
         }

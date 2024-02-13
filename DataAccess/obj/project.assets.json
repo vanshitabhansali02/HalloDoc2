@@ -1100,11 +1100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\pca135\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pca135\\AppData\\Roaming\\NuGet\\NuGet.Config",

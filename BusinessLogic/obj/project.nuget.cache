@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67e6JEIDeRxoMQw4zwm8YJjXQZBh9kLEqMhJs6QOy8Jbf7rRAjBO+lHRpzNQ3/aljEzwfkKb0/gdb1JhnS6tLg==",
+  "dgSpecHash": "dUqkBftSK+kosvKHJKzQwSnsHaLtn2j4CODKTaP/DhHjtCp8lTw3nztESpU0zk2FGdRM35rtl/AhOPoUg8D40Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pca135\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",
     "C:\\Users\\pca135\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.15\\microsoft.entityframeworkcore.abstractions.7.0.15.nupkg.sha512",

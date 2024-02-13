@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "omoWS3/4Gw1+AkHmJfjWMWpzTRLY6KlIrTkfwFaL/+uo6No+mIZYINQe7dVZTV6RcgB+U+hlFlYnSHDMw8BXvA==",
+  "dgSpecHash": "I84+rvmTekQEuttbwi0lcHulBblXLxM17wIeP1uiXpre+rs2rvcZTH1LlsST0bFUsJa7gNO3DKHiRXStUOflMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pca135\\Desktop\\Hallo_Doc\\Hallo_Doc\\Hallo_Doc.csproj",
+  "projectFilePath": "C:\\Users\\pca135\\Desktop\\HalloDoc2\\Hallo_Doc\\Hallo_Doc\\Hallo_Doc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pca135\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pca135\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
